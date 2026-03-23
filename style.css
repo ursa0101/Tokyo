@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+.h1{
+  text-align: center;
+  font-size: 50px;
+}
+.list{
+  font-size: 20px;
+}
+.all{
+  font-family: 'cwTeXYen',serif;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: "Comic Sans MS", Helvetica, Arial,  "cwtexyen", sans-serif;
+}
+a:link{
+  color:#ae716e;
+}
+a:visited{
+  color:#8FBC8F;
+}
